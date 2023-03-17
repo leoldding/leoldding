@@ -54,9 +54,9 @@ Currently taking the following courses:
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoldding&hide=jupyter%20notebook&layout=compact&theme=dark&langs_count=6)
 
+<!--
 ![](https://komarev.com/ghpvc/?username=leoldding&style=flat-square&color=FF6F00)
 
-<!--
 **leoldding/leoldding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
