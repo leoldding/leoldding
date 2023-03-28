@@ -15,7 +15,7 @@ Currently taking the following courses:
 * Fundamentals of Machine Learning
 * Parallel Computing 
   
-  <img alt="CUDA Tag" src="https://img.shields.io/badge/-NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <!--<img alt="CUDA Tag" src="https://img.shields.io/badge/-NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />-->
 
 ## Coding Languages
 <p>
