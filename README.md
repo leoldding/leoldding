@@ -15,7 +15,9 @@ Currently taking the following courses:
 * Fundamentals of Machine Learning
 * Parallel Computing 
   
-  <!--<img alt="CUDA Tag" src="https://img.shields.io/badge/-NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />-->
+  <img alt="CUDA Tag" src="https://img.shields.io/badge/-NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="OpenMP Tag" src="https://img.shields.io/badge/-OpenMP-39817D?style=for-the-badge&logo=openmp&logoColor=white" />
+  <img alt="MPI Tag" src="https://img.shields.io/badge/-MPI-1688A3?style=for-the-badge&logo=mpi&logoColor=white" />
 
 ## Coding Languages
 <p>
