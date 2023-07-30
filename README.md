@@ -5,21 +5,9 @@
   <a href="https://www.linkedin.com/in/leo-ding/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-I am a NYU student studying computer science and data science.
+I recently graduated from NYU with a degree in Computer Science and Data Science.
 
-Currently taking the following courses:
-* Advanced Topics in Data Science: Deep Learning
-
-  <img alt="Tensorflow Tag" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch Tag" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-* Fundamentals of Machine Learning
-* Parallel Computing 
-  
-  <img alt="CUDA Tag" src="https://img.shields.io/badge/-NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img alt="OpenMP Tag" src="https://img.shields.io/badge/-OpenMP-39817D?style=for-the-badge&logo=openmp&logoColor=white" />
-  <img alt="MPI Tag" src="https://img.shields.io/badge/-MPI-1688A3?style=for-the-badge&logo=mpi&logoColor=white" />
-
-## Coding Languages
+## Languages
 <p>
   <img alt="Go Tag" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
   <img alt="Python Tag" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,6 +29,8 @@ Currently taking the following courses:
   <img alt="React Tag" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Axios Tag" src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img alt="Nginx Tag" src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img alt="Tensorflow Tag" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch Tag" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="Apache Hadoop Tag" src="https://img.shields.io/badge/-Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img alt="Apache Hive Tag" src="https://img.shields.io/badge/-Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
   <img alt="Apache Impala Tag" src="https://img.shields.io/badge/-Apache_Impala-3361CC?style=for-the-badge&logo=apacheimpala&logoColor=white" />
@@ -50,6 +40,8 @@ Currently taking the following courses:
   <img alt="SciPy Tag" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img alt="matplotlib Tag" src="https://img.shields.io/badge/-matplotlib-ED8B00?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img alt="scikit-learn Tag" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="OpenMP Tag" src="https://img.shields.io/badge/-OpenMP-39817D?style=for-the-badge&logo=openmp&logoColor=white" />
+  <img alt="MPI Tag" src="https://img.shields.io/badge/-MPI-1688A3?style=for-the-badge&logo=mpi&logoColor=white" />
  </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoldding&show_icons=true&theme=dark)
